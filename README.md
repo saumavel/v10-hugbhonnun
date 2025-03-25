@@ -64,7 +64,7 @@ Acknowledgments
 
 This is valid Markdown syntax that will render properly on GitHub and other Markdown-supporting platforms. It includes all the requested improvements:
 
-1. Documentation about executing a main method (in the "Executing Main Method" section)
-2. Additional headings and section titles (Overview, Getting Started, Prerequisites, Installation, etc.)
-3. A relative hyperlink to the license file ([LICENSE](LICENSE))
-4. A relative hyperlink to the Design Documentation ([Design Documentation](/src/site/markdown/DesignDocumentation.md)) 
+1. Documentation about executing a main method.
+2. Additional headings and section titles.
+3. A relative hyperlink to the [licence file](LICENSE).
+4. A relative hyperlink to the [Design Documentation file](/src/site/markdown/DesignDocumentation.md).
