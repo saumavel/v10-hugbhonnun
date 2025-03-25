@@ -41,3 +41,29 @@ mvn exec:java -Dexec.mainClass="is.hi.hbv202g.ass9.CompositeMain"
 mvn site
 ```
 This generates Javadoc documentation and places it in ⁠target/site/index.html.
+## Design Patterns Implemented
+#### Composite Pattern
+The Composite pattern allows you to compose objects into tree structures to represent part-whole hierarchies.
+Observer Pattern
+
+The Observer pattern defines a one-to-many dependency between objects so that when one object changes state, all its dependents are notified and updated automatically.
+Template Method Pattern
+
+The Template Method pattern defines the skeleton of an algorithm in a method, deferring some steps to subclasses.
+Testing Approach
+
+The project uses JUnit4 for testing. Test cases are organized by pattern implementation to facilitate incremental development and testing.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+#### Contributing
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Acknowledgments
+- University of Iceland, Faculty of Industrial Engineering, Mechanical Engineering and Computer Science
+
+This is valid Markdown syntax that will render properly on GitHub and other Markdown-supporting platforms. It includes all the requested improvements:
+
+1. Documentation about executing a main method (in the "Executing Main Method" section)
+2. Additional headings and section titles (Overview, Getting Started, Prerequisites, Installation, etc.)
+3. A relative hyperlink to the license file (`[LICENSE](LICENSE)`)
